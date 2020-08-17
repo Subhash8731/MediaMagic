@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3D38C408-EF60-4752-AB2A-67E3480125D8"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C96C35DD-1FF8-4219-BECE-CCE7E6F3A32C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MediaMagicAssessment/Controllers/PhotoViewController/PhotosViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchPhotos()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C96C35DD-1FF8-4219-BECE-CCE7E6F3A32C - 5be08815d3bd861f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MediaMagicAssessment.PhotosViewModel.fetchPhotos() -&gt; ()"
+                  moduleName = "MediaMagicAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhashkumar/Desktop/MediaMagicAssessment/MediaMagicAssessment/Controllers/PhotoViewController/PhotosViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  uuid = "C96C35DD-1FF8-4219-BECE-CCE7E6F3A32C - 806a2fe8ba6af370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;) -&gt; () in MediaMagicAssessment.PhotosViewModel.fetchPhotos() -&gt; ()"
+                  moduleName = "MediaMagicAssessment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subhashkumar/Desktop/MediaMagicAssessment/MediaMagicAssessment/Controllers/PhotoViewController/PhotosViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "130">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF35D1AC-CCCF-4824-9D00-AFD456ECAAA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MediaMagicAssessment/Controllers/PhotoViewController/PhotosViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchPhotos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

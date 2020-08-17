@@ -1,0 +1,6 @@
+framework module Pods_MediaMagicAssessment_MediaMagicAssessmentUITests {
+  umbrella header "Pods-MediaMagicAssessment-MediaMagicAssessmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

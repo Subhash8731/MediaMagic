@@ -8,6 +8,23 @@
 
 import UIKit
 
-class PhotosViewModel: NSObject {
+class PhotosViewModel: BaseViewModel {
 
+    var userService: UserServiceProtocol
+    var arrForPhotos = Array<Photo>()
+    
+       init(userService: UserServiceProtocol) {
+           self.userService = userService
+       }
+    
+    func fetchPhotos()  {
+        userService.getPhotos(with: self) { (result) in
+            if result != nil{
+                if let arr = result as? Array<Photo>{
+                    self.arrForPhotos = arr
+                }
+               self.redirectControllerClosure?()
+            }
+        }
+    }
 }
